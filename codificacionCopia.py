@@ -31,6 +31,9 @@ def codificacionGlobal(path, k, prefijo):
             print('movido')
 
 
+            ptinyyyyyyy
+
+
 
 def contenidoError(path, k, prefijo):
     contenidoRaro = ['\t', '\xa0']

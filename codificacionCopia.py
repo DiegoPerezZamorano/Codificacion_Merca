@@ -1,6 +1,6 @@
 import pandas as pd
 
-
+#jacob
 def codificacionGlobal(path, k, prefijo):
     try:
         df = pd.read_csv(path+k, sep='|', header=None, dtype=str, encoding='utf-8', lineterminator='\n')

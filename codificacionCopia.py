@@ -50,4 +50,9 @@ def contenidoError(path, k, prefijo):
     except Exception as e:
         print(f"Error al procesar el archivo {k}: {e}")
 
+<<<<<<< HEAD
 Huevos
+=======
+
+Huevardos de perro
+>>>>>>> Javier

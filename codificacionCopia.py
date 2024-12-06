@@ -30,7 +30,7 @@ def codificacionGlobal(path, k, prefijo):
             mover_archivos(mover, prefijo,'Error')
             print('movido')
 
-sdggggg
+ '''Hi '''
 def contenidoError(path, k, prefijo):
     contenidoRaro = ['\t', '\xa0']
     

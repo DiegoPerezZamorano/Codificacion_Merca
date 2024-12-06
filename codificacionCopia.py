@@ -30,7 +30,8 @@ def codificacionGlobal(path, k, prefijo):
             mover_archivos(mover, prefijo,'Error')
             print('movido')
 
- '''Hi '''
+
+
 def contenidoError(path, k, prefijo):
     contenidoRaro = ['\t', '\xa0']
     
@@ -48,3 +49,6 @@ def contenidoError(path, k, prefijo):
     
     except Exception as e:
         print(f"Error al procesar el archivo {k}: {e}")
+
+
+Huevardos de perro
